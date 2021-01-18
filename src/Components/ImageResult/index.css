@@ -1,0 +1,9 @@
+body {
+    overflow-x: hidden;
+}
+.gird{
+    flexGrow: 1
+}
+.gird img {
+    width: 120
+}

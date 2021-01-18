@@ -1,0 +1,17 @@
+.welcome{
+  text-align: center;
+  background: -webkit-linear-gradient(black, yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all .5s;
+}
+.search{
+  margin: 15px;
+}
+.text__title{
+  text-decoration: underline;
+  color: #f0c;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-underline-position: under;
+}
